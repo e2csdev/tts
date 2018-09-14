@@ -1,0 +1,8 @@
+[
+  {
+    "action": "talk",
+    "voiceName": "Ivy",
+    "level": 1,
+    "text": "<speak><break time='1s'/><prosody volume='loud'><s>Hi, this is E2open <say-as interpret-as='spell-out'>GS</say-as>.</s><break time='1s'/><s>Please get online now.</s><s>Don't worry, this is just a test from Harriet, bye.</s></prosody></speak>"
+  }
+]
