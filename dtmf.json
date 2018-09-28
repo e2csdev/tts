@@ -16,7 +16,8 @@
     {
         "action": "input",
         "submitOnHash": true,
-        "timeOut": 10
+        "timeOut": 10,
+        "eventUrl": ["http://buzz-env.xadmdme7ec.us-east-1.elasticbeanstalk.com/agent/nexmoEvt"]
     },
     {
         "action": "talk",
