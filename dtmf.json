@@ -1,7 +1,7 @@
 [
     {
         "action": "talk",
-        "text": "Hi, this is E2open G-S.",
+        "text": "  Hello, this is E2open G-S.",
         "voiceName": "Joey",
         "level": 1,
         "bargeIn": false
