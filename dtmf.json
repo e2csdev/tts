@@ -1,0 +1,27 @@
+[
+    {
+        "action": "talk",
+        "text": "Hi, this is E2open G-S.",
+        "voiceName": "Joey",
+        "level": 1,
+        "bargeIn": false
+    },
+    {
+        "action": "talk",
+        "text": "Press 1 to confirm, followed by the hash key.",
+        "voiceName": "Joey",
+        "level": 1,
+        "bargeIn": true
+    },
+    {
+        "action": "input",
+        "submitOnHash": true,
+        "timeOut": 10
+    },
+    {
+        "action": "talk",
+        "text": "Thanks for your input, goodbye.",
+        "level": 1,
+        "voiceName": "Joey"
+    }
+]
